@@ -3,7 +3,8 @@
 
 def meal_choice (veg1, veg2, protein = "tofu")
   line1 = "What a nutritious meal!"
-  line2 = 
-  puts 
-  puts "A plate of #{protein} with #{veg1} and #{veg2}."
+  line2 = "A plate of #{protein} with #{veg1} and #{veg2}."
+  puts line1
+  puts line2
+  line2
 end
